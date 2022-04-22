@@ -16,8 +16,8 @@ Location: See the Simulation Folder <br>
 8. BJT Current Mirror
 9. MOSFET Current Mirror
 10. Feedback Circuits of Operational Amplifier
-   - VCCS
-   - VCVS
-   - CCCS
-   - CCVS
+      - VCCS
+      - VCVS
+      - CCCS
+      - CCVS
 11. Wien Bridge Oscillator using Operational Amplifier
