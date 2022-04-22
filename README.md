@@ -1,7 +1,7 @@
 # Practicals for Microelectronics
 <br>
-Type: Schematics
+Type: Schematics <br>
 Software: LTspice <br>
-Location: See the Simulation Folder
+Location: See the Simulation Folder <br>
 <br>
 ## List of Practicals
