@@ -1,0 +1,17 @@
+Author Name: Hardik Chhabra
+College: NSUT(East Campus)
+Roll No.: 2020UEA6504
+
+Steps to see the simulations
+1) You can download the Simulations.zip file and extract it.
+ 
+2) Download LTspice in your computer and make sure you open the 
+applications with .asc extension with LTspice to view the simulations.
+
+3) When LTspice is open, then click on the Simulations button in toolbar and 
+then click on 'Run' to start the simulations.
+
+
+Open the Simulations (LT spice) folder to see the simualtion files with (.asc) extension.
+Open the Images folder to view images regarding simulations
+
